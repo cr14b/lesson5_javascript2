@@ -4,19 +4,19 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(February 24, 2016)
 
 ### Student Name:  
-(First and Last Name)
+(Claudia Reoyo)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(This application will find the IRS tax bracket for a user. The Tax Calculator application computes a user’s total income tax and determines the tax bracket
+the user falls in.)
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+(https://cr14b.github.io/lesson5_javascript2/)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (I learned to declare, initialize, modify and display variables.)
+2. (To use if statements, if/else statements, and nested if statements to make decisions)
+3. (To associate an event (onclick) with an HTML element and define an event handler)
